@@ -51,7 +51,7 @@ async def typewriter(typew):
 CMD_HELP.update({
     "salam":
     "`P`\
-\nUsage: Untuk Memberi salam.\
+\nUsage: Untuk Salam.\
 \n\n`L`\
-\nUsage: Untuk Menjawab Salam."
+\nUsage: Untuk Jawab Salam."
 })
