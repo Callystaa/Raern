@@ -32,7 +32,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit("`Astaghfirulloh Jawab Salam Dong...`")
+    await typew.edit("`Waallaikum.....`")
     sleep(1)
     await typew.edit("`Waallaikumsalam......`")
 # Owner @wahyutry._
@@ -42,7 +42,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit("`Astaghfirulloh Jawab Salam Dong...`")
+    await typew.edit("`Waallaikum.....`")
     sleep(1)
     await typew.edit("`Waallaikumsalam.....`")
 # Owner @wahyutry._
